@@ -1,4 +1,4 @@
-package hello;
+package al.tirana;
 
 import al.tirana.pdfBarcodesProcessor.PdfBarcodesProcessor;
 import al.tirana.pdfBarcodesProcessor.PdfBarcodesProcessorImpl;
